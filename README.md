@@ -6,3 +6,4 @@ Many companies while conducting meetings, keep paid employees to note down meeti
 Our solution is to make better use of available tools and technological advancements to help employees conduct efficient discussions to overall boost a company’s efficiency.
 Automated minute book creation (AMBOC) is an automated system to create transcripts and minutes of a meeting with the added advantage of speaker recognition.
 The model we propose will be capable of transforming an audio file into plain text using Deep Neural Networks (DNN) and Google API, verifying the voice of a speaker using Mel Frequency Cepstral Coefficent (MFCC) as well as summarizing the meeting transcript into condensed minutes with the help of Transformers.
+  
